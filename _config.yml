@@ -1,0 +1,28 @@
+name: Beach Living
+favicon: null
+layout_spectrum: 0.09683800535276532
+typography_spectrum: 0.8891579662449658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.30913187842816114
+  lightness: 0.8189887318294495
+  saturation: 0.3843249292112887
+  rhythmicContrast: 0.571170232957229
+purpose: []
