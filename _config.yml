@@ -1,6 +1,6 @@
 name: Beach Living
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.9975
 typography_spectrum: 0.35828
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.25
-  lightness: 0.9375
+  lightness: 0.6875
   saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
