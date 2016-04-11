@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Such FUN 'Flip Flop Nail Decals'! A lovely reminder of summer at the beach!"
-datePublished: '2016-04-11T10:01:46.142Z'
-dateModified: '2016-04-11T10:01:45.452Z'
+datePublished: '2016-04-11T10:09:33.496Z'
+dateModified: '2016-04-11T10:09:05.726Z'
 title: ''
 author: []
 authors: []
