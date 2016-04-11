@@ -4,11 +4,18 @@
         <description><![CDATA[BEACH and COASTAL Style]]></description>
         <link>https://thegrid.ai/beach-living/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 10:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 10:05:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beach-living/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>WE FOUND IT HERE:</p>]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8837a3c280ab052b608d17ffce8941d449166aaa.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/beach-living/such-a-playful-home-is-where-you-park-your-flip-flops-pill/index.html</link>
+            <guid isPermaLink="false">de0572c7-eebf-429c-9d70-1e2af70d1faa</guid>
+            <pubDate>Mon, 11 Apr 2016 10:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This sterling silver 'Beach Girl' Necklace is DIVINE... true artisan handcrafted jewelry at its best! Love the seafoam sea glass!</p>]]></description>
             <link>https://thegrid.ai/beach-living/we-found-it-here/index.html</link>
             <guid isPermaLink="false">7f3c150e-abc6-4018-9b0a-2d8a90932ccc</guid>
             <pubDate>Mon, 11 Apr 2016 10:03:29 GMT</pubDate>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/beach-living/570ebe51-c5bb-407f-9f7b-0600e8cd3336/index.html</link>
             <guid isPermaLink="false">570ebe51-c5bb-407f-9f7b-0600e8cd3336</guid>
             <pubDate>Mon, 11 Apr 2016 07:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8837a3c280ab052b608d17ffce8941d449166aaa.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/beach-living/such-a-playful-home-is-where-you-park-your-flip-flops-pill/index.html</link>
-            <guid isPermaLink="false">de0572c7-eebf-429c-9d70-1e2af70d1faa</guid>
-            <pubDate>Thu, 07 Apr 2016 20:16:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
