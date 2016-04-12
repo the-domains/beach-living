@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'WE FOUND IT HERE:'
-datePublished: '2016-04-12T07:47:16.362Z'
-dateModified: '2016-04-10T10:03:28.202Z'
+datePublished: '2016-04-12T07:48:27.836Z'
+dateModified: '2016-04-12T07:47:44.264Z'
 authors: []
 publisher:
   name: null
@@ -22,11 +22,11 @@ url: we-found-it-here/index.html
 _type: Article
 
 ---
-Liking this PLAYFUL 'Life Is Better In Flip Flops' Sign! Fabulous use for reclaimed pallet art.. love the stripes & starfish!
+Such a GORGEOUS 'Starfish Bedding Set! So cute it includes the coral pillow & ... a sleep mask... can never find our sleep mask!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4bb0d2f-a111-49ab-a83f-6994f013af52.png)
 
 WE FOUND IT HERE:
 
-[http://bit.ly/1V1rJyh][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e151ab-370a-4ad1-b8b9-b73cf77b7997.png)
+[http://amzn.to/1W8HCTf][0]
 
-[0]: http://bit.ly/1V1rJyh
+[0]: http://amzn.to/1W8HCTf
